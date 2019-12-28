@@ -1,0 +1,6 @@
+framework module Pods_MyRest {
+  umbrella header "Pods-MyRest-umbrella.h"
+
+  export *
+  module * { export * }
+}

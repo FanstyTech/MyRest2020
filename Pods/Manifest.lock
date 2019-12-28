@@ -1,0 +1,52 @@
+PODS:
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - FSPagerView (0.8.3)
+  - FTPopOverMenu (2.0.9)
+  - IQKeyboardManager (6.2.1)
+  - SwifterSwift (5.0.0):
+    - SwifterSwift/AppKit (= 5.0.0)
+    - SwifterSwift/CoreGraphics (= 5.0.0)
+    - SwifterSwift/CoreLocation (= 5.0.0)
+    - SwifterSwift/Dispatch (= 5.0.0)
+    - SwifterSwift/Foundation (= 5.0.0)
+    - SwifterSwift/MapKit (= 5.0.0)
+    - SwifterSwift/SpriteKit (= 5.0.0)
+    - SwifterSwift/SwiftStdlib (= 5.0.0)
+    - SwifterSwift/UIKit (= 5.0.0)
+  - SwifterSwift/AppKit (5.0.0)
+  - SwifterSwift/CoreGraphics (5.0.0)
+  - SwifterSwift/CoreLocation (5.0.0)
+  - SwifterSwift/Dispatch (5.0.0)
+  - SwifterSwift/Foundation (5.0.0)
+  - SwifterSwift/MapKit (5.0.0)
+  - SwifterSwift/SpriteKit (5.0.0)
+  - SwifterSwift/SwiftStdlib (5.0.0)
+  - SwifterSwift/UIKit (5.0.0)
+
+DEPENDENCIES:
+  - FlagPhoneNumber
+  - FSPagerView (= 0.8.3)
+  - FTPopOverMenu (= 2.0.9)
+  - IQKeyboardManager (= 6.2.1)
+  - SwifterSwift (= 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - FlagPhoneNumber
+    - FSPagerView
+    - FTPopOverMenu
+    - IQKeyboardManager
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  FTPopOverMenu: 82782ddb42712fcd7747d072afd8f5e8cb2303eb
+  IQKeyboardManager: 964638372b4a61892cc74fdfa6fd26de8c9464a2
+  SwifterSwift: 96f90594b370802f01647c2b1229c74a84ffafee
+
+PODFILE CHECKSUM: fd055360fd8270bebee6c59e4c27925e6102f8cb
+
+COCOAPODS: 1.8.4
